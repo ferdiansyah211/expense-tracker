@@ -1,0 +1,15 @@
+# Go-specific ignores
+/bin/
+/pkg/
+*.exe
+*.log
+*.out
+*.tmp
+
+# Environment files
+.env
+
+# IDE-specific ignores
+.vscode/
+.idea/
+*.iml
